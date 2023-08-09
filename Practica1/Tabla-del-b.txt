@@ -1,0 +1,11 @@
+        b x 1 = NaN
+        b x 2 = NaN
+        b x 3 = NaN
+        b x 4 = NaN
+        b x 5 = NaN
+        b x 6 = NaN
+        b x 7 = NaN
+        b x 8 = NaN
+        b x 9 = NaN
+        b x 10 = NaN
+        
